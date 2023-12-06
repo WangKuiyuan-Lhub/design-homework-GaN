@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {\CJKnumber {1}、}设计背景}{1}{section.1}%
+\contentsline {section}{\numberline {\CJKnumber {2}、}耿氏二极管的原理}{2}{section.2}%
+\contentsline {subsection}{\numberline {1.}耿氏效应}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.}原理性结构}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {\CJKnumber {3}、}实验方案设计与实验参数计算}{8}{section.3}%
+\contentsline {subsection}{\numberline {1.}材料特性及优势}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {2.}氮化镓耿氏二极管最高工作频率计算}{11}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.}氮化镓耿氏二极管最大输出功率计算}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {4.}氮化镓耿氏二极管掺杂浓度计算}{12}{subsection.3.4}%
+\contentsline {subsection}{\numberline {5.}耿氏二极管的结构设计}{13}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {(1)}传统$N^{+}GaN$/$N^{-}GaN$/$N^{+}GaN$结构设计}{13}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {(2)}带Notch层的$N^{+}GaN$/$N^{-}GaN$/$N^{+}GaN$结构设计}{14}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {(3)}通过加入 AlGaN 加速层的$N^{+}GaN$/$N^{-}GaN$/$N^{+}GaN$结构设计}{15}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {6.}耿氏二极管的参数设计}{15}{subsection.3.6}%
+\contentsline {subsection}{\numberline {7.}设计部分总结}{17}{subsection.3.7}%
+\contentsline {section}{\numberline {\CJKnumber {4}、}制造流程示意图}{18}{section.4}%
+\contentsline {section}{\numberline {\CJKnumber {5}、}生产安全防护、社会与环境因素}{22}{section.5}%
+\contentsline {subsection}{\numberline {1.}镓对人体健康的影响}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {2.}安全防护}{22}{subsection.5.2}%
+\contentsline {subsection}{\numberline {3.}社会与环境因素}{23}{subsection.5.3}%
+\contentsline {section}{参考文献}{24}{section*.1}%
+\contentsfinish 
